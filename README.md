@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyansh</h1>
 <h3 align="center">Tech enthusiast from India, pursuing AI</h3>
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **python, HTML, CSS**
 
