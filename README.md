@@ -2,12 +2,12 @@
 <h3 align="center">Tech explorer from India, passionate about AI, code, and creative tools</h3>
 
 - 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science** at Amrita Vishwa Vidyapeetham, NCR Campus  
-- 💡 Currently building **cross-platform apps** with **React Native**  
+- 💡 Currently building a **cross-platform social interaction app** with **React Native**  
 - 🧠 Exploring **machine learning**, **computational mechanics**, and **quantum systems**  
-- 🔧 Learning **TypeScript**, **C++**, and **TouchDesigner**  
-- 🎨 Experienced with **Blender**, **Figma**, **Photoshop**, and **DaVinci Resolve**  
-- 🛠️ I've worked on projects involving **Raspberry Pi**, **Arduino**, and **MQTT**  
-- 📈 I enjoy building tools that blend **tech + visuals**, like **stock apps**, **solar system simulations**, and **AI-powered interfaces**
+- 🔧 Learning **TypeScript**, **Expo**, and **TouchDesigner**  
+- 🎨 Experienced with **Blender**, **Figma**, and **DaVinci Resolve**  
+- 🛠️ I've worked on projects involving **Raspberry Pi**, **Arduino**, and **MQTT**
+- ⛰️ **I love climbing mountains**
 
 - 📫 Reach me at **singhshreyansh288@gmail.com**  
 - 🌐 Portfolio / work-in-progress: [github.com/sherucon](https://github.com/sherucon)
