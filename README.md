@@ -2,7 +2,7 @@
 <h3 align="center">Tech explorer from India, passionate about AI, code, and creative tools</h3>
 
 - 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science** at Amrita Vishwa Vidyapeetham, NCR Campus  
-- 💡 Currently building **cross-platform apps** with **Flutter** and **React Native**  
+- 💡 Currently building **cross-platform apps** with **React Native**  
 - 🧠 Exploring **machine learning**, **computational mechanics**, and **quantum systems**  
 - 🔧 Learning **TypeScript**, **C++**, and **TouchDesigner**  
 - 🎨 Experienced with **Blender**, **Figma**, **Photoshop**, and **DaVinci Resolve**  
