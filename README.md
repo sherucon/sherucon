@@ -10,7 +10,7 @@
 - ⛰️ **I love climbing mountains**
 
 - 📫 Reach me at **singhshreyansh288@gmail.com**  
-- 🌐 Portfolio / work-in-progress: [github.com/sherucon](https://github.com/sherucon)
+- 🌐 Portfolio / work-in-progress: [hehe](https://shreyanshsingh777.netlify.app)
 
 ---
 
