@@ -16,7 +16,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
   <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="react native" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/></a>
@@ -29,7 +28,7 @@
   <a href="https://www.raspberrypi.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberry pi" width="40" height="40"/></a>
   <a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
+  <a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank"><img src="https://seeklogo.com/images/D/davinci-resolve-logo-6C3A6D203F-seeklogo.com.png" alt="DaVinci Resolve" width="40" height="40"/></a>
 </p>
 
 ---
@@ -37,5 +36,4 @@
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
   <a href="mailto:singhshreyansh288@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/sherucon"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
 </p>
