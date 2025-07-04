@@ -28,7 +28,7 @@
   <a href="https://www.raspberrypi.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberry pi" width="40" height="40"/></a>
   <a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank"><img src="https://seeklogo.com/images/D/davinci-resolve-logo-6C3A6D203F-seeklogo.com.png" alt="DaVinci Resolve" width="40" height="40"/></a>
+  <a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank"><img src="https://images.seeklogo.com/logo-png/44/1/davinci-resolve-logo-png_seeklogo-443231.png" alt="DaVinci Resolve" width="40" height="40"/></a>
 </p>
 
 ---
