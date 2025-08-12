@@ -2,7 +2,7 @@
 <h3 align="center">Tech explorer from India, passionate about AI, code, and creative tools</h3>
 
 - 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science** at Amrita Vishwa Vidyapeetham, NCR Campus  
-- 💡 Currently building a **cross-platform social interaction app** with **React Native**  
+- 💡 Currently building a **cross-platform social interaction app** with **React Native Expo**  
 - 🧠 Exploring **machine learning**, **computational mechanics**, and **quantum systems**  
 - 🔧 Learning **TypeScript**, **Expo**, and **TouchDesigner**  
 - 🎨 Experienced with **Blender**, **Figma**, and **DaVinci Resolve**  
