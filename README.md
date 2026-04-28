@@ -9,7 +9,7 @@
 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**  
 at *Amrita Vishwa Vidyapeetham, NCR Campus*  
 
-💡 Currently building paraNOyar
+💡 Currently building [paraNOyar](https://github/com/sherucon/paranoyar)
 
 🧠 Exploring:  
 - Machine Learning  
