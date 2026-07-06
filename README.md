@@ -48,9 +48,9 @@
 
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
-<h2>
+<!-- <h2>
   <img src="https://img.shields.io/badge/▌_Quick_Access_—_Tech_Stack-00ff41?style=flat-square&labelColor=0a0e14&color=0a0e14" alt=""/>
-</h2>
+</h2> -->
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -77,23 +77,23 @@
 
 <!-- ═══════════════════ SNAKE CONTRIBUTION GRAPH ═══════════════════ -->
 
-<h2>
+<!-- <h2>
   <img src="https://img.shields.io/badge/▌_Contribution_Grid-00ff41?style=flat-square&labelColor=0a0e14&color=0a0e14" alt=""/>
-</h2>
+</h2> -->
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sherucon/sherucon/output/github-snake.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sherucon/sherucon/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sherucon/sherucon/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sherucon/sherucon/output/github-snake.svg" />
     <img alt="Snake animation" src="https://raw.githubusercontent.com/sherucon/sherucon/output/github-snake.svg" width="850"/>
   </picture>
 </p>
 
 <!-- ═══════════════════ CONNECT ═══════════════════ -->
 
-<h2>
+<!-- <h2>
   <img src="https://img.shields.io/badge/▌_Connect-00ff41?style=flat-square&labelColor=0a0e14&color=0a0e14" alt=""/>
-</h2>
+</h2> -->
 
 <p align="center">
 
