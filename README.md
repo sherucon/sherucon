@@ -30,9 +30,7 @@
 </td>
 <td width="50%" valign="top">
 
-▌ **System Status**
-
-<img src="https://github-stats-extended.vercel.app/api?username=sherucon&show_icons=true&hide_border=true&bg_color=0a0e14&title_color=00ff41&text_color=00ff41&icon_color=00ff41&ring_color=00ff41&border_color=00ff41&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400"/>
+<!-- <img src="https://github-stats-extended.vercel.app/api?username=sherucon&show_icons=true&hide_border=true&bg_color=0a0e14&title_color=00ff41&text_color=00ff41&icon_color=00ff41&ring_color=00ff41&border_color=00ff41&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400"/> -->
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sherucon&layout=compact&hide_border=true&bg_color=0a0e14&title_color=00ff41&text_color=00ff41&border_color=00ff41&langs_count=8" alt="Top Languages" width="400"/>
 
@@ -85,8 +83,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sherucon/sherucon/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sherucon/sherucon/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sherucon/sherucon/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sherucon/sherucon/output/github-snake-dark.svg" />
     <img alt="Snake animation" src="https://raw.githubusercontent.com/sherucon/sherucon/output/github-snake.svg" width="850"/>
   </picture>
 </p>
