@@ -1,0 +1,157 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="180" viewBox="0 0 850 180">
+  <defs>
+    <style>
+      /* Font: Uses system monospace (Courier New) — GitHub CSP blocks @import in SVGs */
+
+      .bg { fill: #0a0e14; }
+      .border-outer { fill: none; stroke: #00ff41; stroke-width: 2; }
+      .border-inner { fill: none; stroke: #00ff41; stroke-width: 1; opacity: 0.3; }
+
+      .title {
+        font-family: 'JetBrains Mono', 'Courier New', monospace;
+        font-size: 28px;
+        font-weight: 700;
+        fill: #00ff41;
+        filter: drop-shadow(0 0 8px #00ff41) drop-shadow(0 0 16px rgba(0,255,65,0.4));
+      }
+
+      .status-text {
+        font-family: 'JetBrains Mono', 'Courier New', monospace;
+        font-size: 12px;
+        fill: #00ff41;
+        opacity: 0.85;
+      }
+
+      .subtitle {
+        font-family: 'JetBrains Mono', 'Courier New', monospace;
+        font-size: 13px;
+        fill: #00ff41;
+        opacity: 0.6;
+      }
+
+      .prompt {
+        font-family: 'JetBrains Mono', 'Courier New', monospace;
+        font-size: 14px;
+        fill: #00ff41;
+        opacity: 0.9;
+      }
+
+      .cursor {
+        fill: #00ff41;
+        animation: blink 1s step-end infinite;
+      }
+
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+
+      .scanline {
+        fill: url(#scanlineGrad);
+        animation: scanMove 4s linear infinite;
+        opacity: 0.08;
+      }
+
+      @keyframes scanMove {
+        0% { transform: translateY(-180px); }
+        100% { transform: translateY(180px); }
+      }
+
+      .dot-online {
+        fill: #00ff41;
+        animation: pulse-dot 2s ease-in-out infinite;
+      }
+
+      @keyframes pulse-dot {
+        0%, 100% { opacity: 1; r: 4; }
+        50% { opacity: 0.5; r: 6; }
+      }
+
+      .decoration {
+        fill: none;
+        stroke: #00ff41;
+        stroke-width: 1;
+        opacity: 0.2;
+      }
+
+      .corner-accent {
+        fill: #00ff41;
+        opacity: 0.6;
+      }
+
+      .divider {
+        stroke: #00ff41;
+        stroke-width: 1;
+        opacity: 0.25;
+      }
+
+      .glow-line {
+        stroke: #00ff41;
+        stroke-width: 1;
+        opacity: 0;
+        animation: glowPulse 3s ease-in-out infinite;
+      }
+
+      @keyframes glowPulse {
+        0%, 100% { opacity: 0; }
+        50% { opacity: 0.5; }
+      }
+    </style>
+    <linearGradient id="scanlineGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="transparent"/>
+      <stop offset="40%" stop-color="#00ff41"/>
+      <stop offset="60%" stop-color="#00ff41"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect class="bg" width="850" height="180" rx="8"/>
+
+  <!-- Border -->
+  <rect class="border-outer" x="4" y="4" width="842" height="172" rx="6"/>
+  <rect class="border-inner" x="8" y="8" width="834" height="164" rx="4"/>
+
+  <!-- Corner accents -->
+  <rect class="corner-accent" x="4" y="4" width="12" height="2"/>
+  <rect class="corner-accent" x="4" y="4" width="2" height="12"/>
+  <rect class="corner-accent" x="834" y="4" width="12" height="2"/>
+  <rect class="corner-accent" x="844" y="4" width="2" height="12"/>
+  <rect class="corner-accent" x="4" y="174" width="12" height="2"/>
+  <rect class="corner-accent" x="4" y="164" width="2" height="12"/>
+  <rect class="corner-accent" x="834" y="174" width="12" height="2"/>
+  <rect class="corner-accent" x="844" y="164" width="2" height="12"/>
+
+  <!-- Title bar divider -->
+  <line class="divider" x1="16" y1="52" x2="834" y2="52"/>
+
+  <!-- Title -->
+  <text class="title" x="24" y="40">▌SHERUCON TERMINAL</text>
+
+  <!-- Status bar -->
+  <circle class="dot-online" cx="560" cy="34" r="4"/>
+  <text class="status-text" x="572" y="38">ONLINE</text>
+  <text class="status-text" x="650" y="38">│</text>
+  <text class="status-text" x="666" y="38">FARIDABAD, IN</text>
+  <text class="status-text" x="794" y="38">│</text>
+  <text class="status-text" x="808" y="38">v1.0</text>
+
+  <!-- Subtitle line -->
+  <text class="subtitle" x="24" y="78">B.Tech AI &amp; Data Science @ Amrita Vishwa Vidyapeetham</text>
+
+  <!-- Prompt line 1 -->
+  <text class="prompt" x="24" y="108">sher@machine:~$  building things that matter</text>
+
+  <!-- Prompt line 2 -->
+  <text class="prompt" x="24" y="132">sher@machine:~$  trust should be earned, not assumed</text>
+
+  <!-- Prompt line 3 (with cursor) -->
+  <text class="prompt" x="24" y="156">sher@machine:~$ </text>
+  <rect class="cursor" x="192" y="143" width="9" height="16" rx="1"/>
+
+  <!-- Scanline overlay -->
+  <rect class="scanline" x="0" y="0" width="850" height="40"/>
+
+  <!-- Glow line accents -->
+  <line class="glow-line" x1="16" y1="170" x2="834" y2="170"/>
+</svg>

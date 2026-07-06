@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="380" viewBox="0 0 420 380">
+  <defs>
+    <style>
+      .m-bg { fill: #0a0e14; }
+      .m-border { fill: none; stroke: #00ff41; stroke-width: 2; }
+      .m-border-inner { fill: none; stroke: #00ff41; stroke-width: 1; opacity: 0.15; }
+
+      .m-title {
+        font-family: 'JetBrains Mono', 'Courier New', monospace;
+        font-size: 18px;
+        font-weight: 700;
+        fill: #00ff41;
+        filter: drop-shadow(0 0 4px rgba(0,255,65,0.3));
+      }
+
+      .m-label {
+        font-family: 'JetBrains Mono', 'Courier New', monospace;
+        font-size: 14px;
+        font-weight: 700;
+        fill: #00ff41;
+      }
+
+      .m-desc {
+        font-family: 'JetBrains Mono', 'Courier New', monospace;
+        font-size: 11px;
+        fill: #00ff41;
+        opacity: 0.7;
+      }
+
+      .m-status {
+        font-family: 'JetBrains Mono', 'Courier New', monospace;
+        font-size: 11px;
+        fill: #00ff41;
+        opacity: 0.85;
+      }
+
+      .m-divider {
+        stroke: #00ff41;
+        stroke-width: 1;
+        opacity: 0.2;
+      }
+
+      .m-bar-left {
+        fill: #00ff41;
+        opacity: 0.4;
+      }
+
+      .dot-active {
+        fill: #00ff41;
+        animation: dotPulse 1.5s ease-in-out infinite;
+      }
+
+      .dot-shipped {
+        fill: #00ff41;
+        opacity: 0.9;
+      }
+
+      .dot-live {
+        fill: #39ff14;
+        opacity: 0.9;
+      }
+
+      @keyframes dotPulse {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.3; }
+      }
+
+      .progress-bg {
+        fill: #0a0e14;
+        stroke: #00ff41;
+        stroke-width: 1;
+        opacity: 0.4;
+      }
+
+      .progress-fill {
+        fill: #00ff41;
+        opacity: 0.6;
+        animation: progressGlow 2s ease-in-out infinite;
+      }
+
+      @keyframes progressGlow {
+        0%, 100% { opacity: 0.4; }
+        50% { opacity: 0.8; }
+      }
+
+      .mission-box {
+        fill: none;
+        stroke: #00ff41;
+        stroke-width: 1;
+        opacity: 0.3;
+      }
+
+      .corner-sm {
+        fill: #00ff41;
+        opacity: 0.5;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect class="m-bg" width="420" height="380" rx="6"/>
+  <rect class="m-border" x="3" y="3" width="414" height="374" rx="5"/>
+  <rect class="m-border-inner" x="7" y="7" width="406" height="366" rx="3"/>
+
+  <!-- Corner accents -->
+  <rect class="corner-sm" x="3" y="3" width="8" height="2"/>
+  <rect class="corner-sm" x="3" y="3" width="2" height="8"/>
+  <rect class="corner-sm" x="409" y="3" width="8" height="2"/>
+  <rect class="corner-sm" x="415" y="3" width="2" height="8"/>
+
+  <!-- Title -->
+  <text class="m-title" x="18" y="34">▌Active Missions</text>
+  <line class="m-divider" x1="14" y1="46" x2="406" y2="46"/>
+
+  <!-- Mission 1: paraNOyar -->
+  <rect class="mission-box" x="14" y="58" width="392" height="88" rx="3"/>
+  <rect class="m-bar-left" x="14" y="58" width="4" height="88"/>
+
+  <circle class="dot-active" cx="32" cy="78" r="4"/>
+  <text class="m-label" x="44" y="82">paraNOyar</text>
+  <text class="m-desc" x="44" y="100">Making AI coding agents transparent</text>
+  <text class="m-desc" x="44" y="114">so you understand what they do</text>
+  <text class="m-status" x="44" y="136">Status: In Progress</text>
+
+  <!-- Progress bar for paraNOyar -->
+  <rect class="progress-bg" x="220" y="128" width="176" height="12" rx="2"/>
+  <rect class="progress-fill" x="221" y="129" width="105" height="10" rx="2"/>
+
+  <!-- Mission 2: Zoop -->
+  <rect class="mission-box" x="14" y="158" width="392" height="78" rx="3"/>
+  <rect class="m-bar-left" x="14" y="158" width="4" height="78"/>
+
+  <circle class="dot-shipped" cx="32" cy="178" r="4"/>
+  <text class="m-label" x="44" y="182">Zoop</text>
+  <text class="m-desc" x="44" y="200">Showcase product — shipped and live</text>
+  <text class="m-status" x="44" y="226">Status: Shipped ✓</text>
+
+  <!-- Mission 3: Portfolio -->
+  <rect class="mission-box" x="14" y="248" width="392" height="78" rx="3"/>
+  <rect class="m-bar-left" x="14" y="248" width="4" height="78"/>
+
+  <circle class="dot-live" cx="32" cy="268" r="4"/>
+  <text class="m-label" x="44" y="272">Portfolio — sherucon.tech</text>
+  <text class="m-desc" x="44" y="290">Personal site — always evolving</text>
+  <text class="m-status" x="44" y="316">Status: Live ●</text>
+
+  <!-- Footer -->
+  <line class="m-divider" x1="14" y1="340" x2="406" y2="340"/>
+  <text class="m-desc" x="18" y="360">// more loading...</text>
+</svg>

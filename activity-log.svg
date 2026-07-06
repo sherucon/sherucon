@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="340" viewBox="0 0 850 340">
+  <defs>
+    <style>
+      .a-bg { fill: #0a0e14; }
+      .a-border { fill: none; stroke: #00ff41; stroke-width: 2; }
+      .a-border-inner { fill: none; stroke: #00ff41; stroke-width: 1; opacity: 0.15; }
+
+      .a-title {
+        font-family: 'JetBrains Mono', 'Courier New', monospace;
+        font-size: 18px;
+        font-weight: 700;
+        fill: #00ff41;
+        filter: drop-shadow(0 0 4px rgba(0,255,65,0.3));
+      }
+
+      .a-log {
+        font-family: 'JetBrains Mono', 'Courier New', monospace;
+        font-size: 13px;
+        fill: #00ff41;
+      }
+
+      .a-time {
+        font-family: 'JetBrains Mono', 'Courier New', monospace;
+        font-size: 13px;
+        fill: #00ff41;
+        opacity: 0.5;
+      }
+
+      .a-comment {
+        font-family: 'JetBrains Mono', 'Courier New', monospace;
+        font-size: 13px;
+        fill: #00ff41;
+        opacity: 0.35;
+        font-style: italic;
+      }
+
+      .a-divider {
+        stroke: #00ff41;
+        stroke-width: 1;
+        opacity: 0.2;
+      }
+
+      .a-corner {
+        fill: #00ff41;
+        opacity: 0.5;
+      }
+
+      .log-line-1 { animation: fadeIn 0.5s ease-out 0.2s both; }
+      .log-line-2 { animation: fadeIn 0.5s ease-out 0.6s both; }
+      .log-line-3 { animation: fadeIn 0.5s ease-out 1.0s both; }
+      .log-line-4 { animation: fadeIn 0.5s ease-out 1.4s both; }
+      .log-line-5 { animation: fadeIn 0.5s ease-out 1.8s both; }
+      .log-line-6 { animation: fadeIn 0.5s ease-out 2.2s both; }
+      .log-line-7 { animation: fadeIn 0.5s ease-out 2.6s both; }
+      .log-line-8 { animation: fadeIn 0.5s ease-out 3.0s both; }
+
+      @keyframes fadeIn {
+        0% { opacity: 0; transform: translateX(-10px); }
+        100% { opacity: 1; transform: translateX(0); }
+      }
+
+      .a-cursor {
+        fill: #00ff41;
+        animation: cursorBlink 1s step-end infinite;
+      }
+
+      @keyframes cursorBlink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+
+      .a-footer {
+        font-family: 'JetBrains Mono', 'Courier New', monospace;
+        font-size: 11px;
+        fill: #00ff41;
+        opacity: 0.3;
+      }
+
+      .scanline-a {
+        fill: rgba(0, 255, 65, 0.03);
+        animation: scanA 6s linear infinite;
+      }
+
+      @keyframes scanA {
+        0% { transform: translateY(-340px); }
+        100% { transform: translateY(340px); }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect class="a-bg" width="850" height="340" rx="6"/>
+  <rect class="a-border" x="3" y="3" width="844" height="334" rx="5"/>
+  <rect class="a-border-inner" x="7" y="7" width="836" height="326" rx="3"/>
+
+  <!-- Corners -->
+  <rect class="a-corner" x="3" y="3" width="8" height="2"/>
+  <rect class="a-corner" x="3" y="3" width="2" height="8"/>
+  <rect class="a-corner" x="839" y="3" width="8" height="2"/>
+  <rect class="a-corner" x="845" y="3" width="2" height="8"/>
+  <rect class="a-corner" x="3" y="335" width="8" height="2"/>
+  <rect class="a-corner" x="3" y="329" width="2" height="8"/>
+  <rect class="a-corner" x="839" y="335" width="8" height="2"/>
+  <rect class="a-corner" x="845" y="329" width="2" height="8"/>
+
+  <!-- Title -->
+  <text class="a-title" x="18" y="34">▌Activity Log</text>
+  <line class="a-divider" x1="14" y1="46" x2="836" y2="46"/>
+
+  <!-- Log entries with staggered animation -->
+  <g class="log-line-1">
+    <text class="a-time" x="18" y="76">[1999]</text>
+    <text class="a-log" x="96" y="76">&gt; system.init(location="Faridabad, India")</text>
+  </g>
+
+  <g class="log-line-2">
+    <text class="a-time" x="18" y="108">[2005]</text>
+    <text class="a-log" x="96" y="108">&gt; load("Resident Evil 4")</text>
+    <text class="a-comment" x="380" y="108">// scared around every corner</text>
+  </g>
+
+  <g class="log-line-3">
+    <text class="a-time" x="18" y="140">[2008]</text>
+    <text class="a-log" x="96" y="140">&gt; rc_car.break() → rc_car.rebuild(motors)</text>
+    <text class="a-comment" x="530" y="140">// then fans, lifts, abominations</text>
+  </g>
+
+  <g class="log-line-4">
+    <text class="a-time" x="18" y="172">[2015]</text>
+    <text class="a-log" x="96" y="172">&gt; school.import(python, sql)</text>
+    <text class="a-comment" x="420" y="172">// liked it A LOT — calculator.py era</text>
+  </g>
+
+  <g class="log-line-5">
+    <text class="a-time" x="18" y="204">[20XX]</text>
+    <text class="a-log" x="96" y="204">&gt; mode = "figuring it out by myself"</text>
+  </g>
+
+  <g class="log-line-6">
+    <text class="a-time" x="18" y="236">[2025]</text>
+    <text class="a-log" x="96" y="236">&gt; paraNOyar.init()</text>
+    <text class="a-comment" x="320" y="236">// trust should be earned, not assumed</text>
+  </g>
+
+  <g class="log-line-7">
+    <text class="a-time" x="18" y="268">[NOW ]</text>
+    <text class="a-log" x="96" y="268">&gt; while(true) { build(); break_things(); learn(); }</text>
+  </g>
+
+  <g class="log-line-8">
+    <text class="a-time" x="18" y="300">[LIVE]</text>
+    <text class="a-log" x="96" y="300">&gt; playing("Resident Evil 9") || exploring || altitude++</text>
+    <rect class="a-cursor" x="632" y="288" width="8" height="15" rx="1"/>
+  </g>
+
+  <!-- Footer -->
+  <line class="a-divider" x1="14" y1="318" x2="836" y2="318"/>
+  <text class="a-footer" x="18" y="333">// end of log — more entries incoming</text>
+
+  <!-- Scanline -->
+  <rect class="scanline-a" x="0" y="0" width="850" height="30"/>
+</svg>
