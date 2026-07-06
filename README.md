@@ -30,23 +30,13 @@
 </td>
 <td width="50%" valign="top">
 
-<!-- ▌ SYSTEM STATUS PANEL -->
+▌ **System Status**
 
-<h3>
-  <img src="https://img.shields.io/badge/▌_System_Status-00ff41?style=flat-square&labelColor=0a0e14&color=0a0e14" alt=""/>
-</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=sherucon&show_icons=true&hide_border=true&bg_color=0a0e14&title_color=00ff41&text_color=00ff41&icon_color=00ff41&ring_color=00ff41&border_color=00ff41&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sherucon&show_icons=true&hide_border=true&bg_color=0a0e14&title_color=00ff41&text_color=00ff41&icon_color=00ff41&ring_color=00ff41&border_color=00ff41&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherucon&layout=compact&hide_border=true&bg_color=0a0e14&title_color=00ff41&text_color=00ff41&border_color=00ff41&langs_count=8" alt="Top Languages" width="400"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherucon&layout=compact&hide_border=true&bg_color=0a0e14&title_color=00ff41&text_color=00ff41&border_color=00ff41&langs_count=8" alt="Top Languages" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sherucon&hide_border=true&background=0a0e14&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=00ff4180" alt="GitHub Streak" width="400"/>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sherucon&hide_border=true&background=0a0e14&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=00ff4180" alt="GitHub Streak" width="400"/>
 
 </td>
 </tr>
@@ -106,16 +96,6 @@
 <h2>
   <img src="https://img.shields.io/badge/▌_Connect-00ff41?style=flat-square&labelColor=0a0e14&color=0a0e14" alt=""/>
 </h2>
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   > ssh sher@email ──────── singhshreyansh288@gmail.com              ║
-║   > curl sherucon.tech ──── https://sherucon.tech                    ║
-║   > git clone sherucon ──── https://github.com/sherucon              ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
 
 <p align="center">
 
