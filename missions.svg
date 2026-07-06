@@ -132,7 +132,7 @@
 
   <circle class="dot-shipped" cx="32" cy="178" r="4"/>
   <text class="m-label" x="44" y="182">Zoop</text>
-  <text class="m-desc" x="44" y="200">Showcase product — shipped and live</text>
+  <text class="m-desc" x="44" y="200">Showcase product — shipped</text>
   <text class="m-status" x="44" y="226">Status: Shipped ✓</text>
 
   <!-- Mission 3: Portfolio -->

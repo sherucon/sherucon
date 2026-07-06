@@ -109,35 +109,35 @@
 
   <!-- Log entries with staggered animation -->
   <g class="log-line-1">
-    <text class="a-time" x="18" y="76">[1999]</text>
+    <text class="a-time" x="18" y="76">[2006]</text>
     <text class="a-log" x="96" y="76">&gt; system.init(location="Faridabad, India")</text>
   </g>
 
   <g class="log-line-2">
-    <text class="a-time" x="18" y="108">[2005]</text>
+    <text class="a-time" x="18" y="108">[2012]</text>
     <text class="a-log" x="96" y="108">&gt; load("Resident Evil 4")</text>
     <text class="a-comment" x="380" y="108">// scared around every corner</text>
   </g>
 
   <g class="log-line-3">
-    <text class="a-time" x="18" y="140">[2008]</text>
+    <text class="a-time" x="18" y="140">[2014]</text>
     <text class="a-log" x="96" y="140">&gt; rc_car.break() → rc_car.rebuild(motors)</text>
     <text class="a-comment" x="530" y="140">// then fans, lifts, abominations</text>
   </g>
 
   <g class="log-line-4">
-    <text class="a-time" x="18" y="172">[2015]</text>
+    <text class="a-time" x="18" y="172">[2018]</text>
     <text class="a-log" x="96" y="172">&gt; school.import(python, sql)</text>
     <text class="a-comment" x="420" y="172">// liked it A LOT — calculator.py era</text>
   </g>
 
   <g class="log-line-5">
-    <text class="a-time" x="18" y="204">[20XX]</text>
+    <text class="a-time" x="18" y="204">[2019]</text>
     <text class="a-log" x="96" y="204">&gt; mode = "figuring it out by myself"</text>
   </g>
 
   <g class="log-line-6">
-    <text class="a-time" x="18" y="236">[2025]</text>
+    <text class="a-time" x="18" y="236">[2026]</text>
     <text class="a-log" x="96" y="236">&gt; paraNOyar.init()</text>
     <text class="a-comment" x="320" y="236">// trust should be earned, not assumed</text>
   </g>
