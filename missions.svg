@@ -119,7 +119,7 @@
   <circle class="dot-active" cx="32" cy="78" r="4"/>
   <text class="m-label" x="44" y="82">Dr.CHARTS</text>
   <text class="m-desc" x="44" y="100">AI powered chart curator</text>
-  <text class="m-desc" x="44" y="114">tell your story</text>
+  <text class="m-desc" x="44" y="114">show your story</text>
   <text class="m-status" x="44" y="136">Status: In Progress</text>
 
   <!-- Progress bar for paraNOyar -->
