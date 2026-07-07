@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/sherucon">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=1000&pause=1000&color=00FF41&background=0A0E1400&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=130&lines=%24+whoami;Builder.+Breaker.+Fixer.;Making+AI+agents+transparent+%40+paraNOyar;Trust+should+be+earned%2C+not+assumed.;Currently+playing+Resident+Evil+9+%F0%9F%8E%AE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=1000&pause=100&color=00FF41&background=0A0E1400&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=130&lines=%24+whoami;Builder.+Breaker.+Fixer.;Making+AI+agents+transparent+%40+paraNOyar;Trust+should+be+earned%2C+not+assumed." alt="Typing SVG" />
   </a>
 </p>
 
