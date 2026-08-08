@@ -40,11 +40,7 @@
 </tr>
 </table>
 
-<!-- ═══════════════════ ACTIVITY LOG ═══════════════════ -->
 
-<p align="center">
-  <img src="activity-log.svg" alt="Activity Log — Life Timeline" width="850"/>
-</p>
 
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
